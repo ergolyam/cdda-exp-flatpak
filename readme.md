@@ -5,7 +5,7 @@ My flatpak repository for experimental builds of Cataclysm: Dark Days Ahead.
 
 - Add repository:
     ```bash
-    flatpak remote-add --user cdda-exp https://grisha765.github.io/cdda-exp-flatpak/grisha765.flatpakrepo
+    flatpak remote-add --user cdda-exp https://ergolyam.github.io/cdda-exp-flatpak/ergolyam.flatpakrepo
     ```
 
 - Install package:
