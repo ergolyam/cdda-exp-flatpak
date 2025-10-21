@@ -2,8 +2,8 @@ name: Update manifest & commit
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 7 * * *' # Daily 10h MSK
+# schedule:
+#   - cron: '0 7 * * *' # Daily 10h MSK
 
 env:
   MANIFEST: org.cataclysmdda.CataclysmDDA.experimental.yml
